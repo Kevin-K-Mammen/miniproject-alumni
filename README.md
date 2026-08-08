@@ -23,4 +23,4 @@ Built using **Python (Flask)**, **SQLite**, **HTML**, **CSS**, and **JavaScript*
 * Secure password hashing and session management
 * Responsive and intuitive user interface
 
-This project was developed as a **Final Year B.Tech Computer Science Engineering Major Project** to demonstrate the practical application of full-stack web development, database management, authentication, and role-based access control in building a real-world alumni networking platform.
+This project was developed as a **Final Year B.Tech Computer Science Engineering Mini Project** to demonstrate the practical application of full-stack web development, database management, authentication, and role-based access control in building a real-world alumni networking platform.
